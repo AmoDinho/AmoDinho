@@ -19,7 +19,7 @@ Big believer in learning how to do difficult things and then replicating them at
 * Vue
 * GraphQL
 * Jest
-* React Testing library
+* Testing library
 * AWS (Lambda, DynamoDB, Cognito, SES, SNS, SQS,S3)
 * Netlify
 * Seed
