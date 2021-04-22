@@ -2,11 +2,11 @@
 
 <hr/>
 
-Yo 🤙 ! I'm Amogelang, usually people call me Amo. I love using JavaScript to build whatever I can imagine. 
+Yo 🤙 ! I'm Amogelang, usually people call me Amo. I love using JavaScript to build whatever I can imagine.
 
 ## 😎 What I do currently?
 
-I'm a fullstack engineer at [Tripplo](https://tripplo.co/), helping to shape the movement of road frieght across Sub-Saharan Africa. 🚚
+I'm a fullstack engineer at [Tripplo](https://tripplo.co/), helping to shape the movement of road frieght across Sub-Saharan Africa. 🚚  I am also a co-organizer of [Front-end Development South Africa (FEDSA)](https://fedsa.org/), which is an NPO that aims to share expertize around Front-end knowledge with South Africa's tech community. 🤝
 
 I'm big on learning how to integrate bleedging edge tech that improves my developer experince into my `production` workflows, in the fastest way possible. 
 
