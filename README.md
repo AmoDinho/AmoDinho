@@ -6,7 +6,7 @@ Yo 🤙 ! I'm Amogelang, usually people call me Amo. I love using JavaScript to 
 
 ## 😎 What I do currently?
 
-I'm a fullstack engineer at [Tripplo](https://tripplo.co/), helping to shape the movement of road freight across Sub-Saharan Africa. 🚚  
+I'm a fullstack engineer at [Naked](https://naked.insure/), helping the team build instant & online insurance at game-changing prices. 🥊
 
 I'm big on learning how to integrate bleedging edge tech that improves my developer experince into my `production` workflows, in the fastest way possible. 
 
